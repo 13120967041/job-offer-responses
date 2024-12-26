@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+     <title>拒绝入职邀请</title>
+ </head>
+ <body>
+     <h1>你已拒绝入职邀请。</h1>
+     <p>我们尊重你的决定，如果你改变想法，随时可以联系我们。</p >
+ </body>
+ </html>
